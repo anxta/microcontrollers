@@ -1,3 +1,3 @@
 # Microcontrollers
- Collection of libraries for microcontrollers in this GitHub repository. 
+ Collection of libraries for PIC microcontrollers in this GitHub repository. 
 
